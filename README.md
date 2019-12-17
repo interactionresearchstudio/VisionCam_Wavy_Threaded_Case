@@ -8,6 +8,6 @@ ProbeTools are created by the Interaction Research Studio, Goldsmiths University
 
 We provide making files for all current, alternative and legacy versions of TaskCams and VisionCams that have been produced during the project, available for those who would like to explore and develop their own ProbeTools. 
 
-We encourage others to adopt and use our design however any usage or altered usage should be cleary and appropriated credited with Interaction Research Studio acknowledgments in compliance with the Creative Commons Attribution 4.0 License.
+We encourage others to adopt and use our design however any usage or altered usage should be clearly and appropriately credited with Interaction Research Studio acknowledgments in compliance with the Creative Commons Attribution 4.0 License.
 
 [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
